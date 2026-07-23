@@ -1,36 +1,31 @@
 # 📱 Mobile Sales Analysis Dashboard
 
-## 📖 Overview
-
-The **Mobile Sales Analysis Dashboard** is an interactive Business Intelligence project developed using **Microsoft Power BI**. It is designed to transform raw mobile sales data into meaningful insights through dynamic visualizations, KPIs, and interactive reports.
-
-This dashboard helps analyze sales performance across different cities, brands, mobile models, and time periods, enabling data-driven business decisions.
+The **Mobile Sales Analysis Dashboard** is an interactive Business Intelligence project built using **Microsoft Power BI**. It transforms raw mobile sales data into meaningful insights through interactive visualizations, KPIs, and reports, enabling businesses to make informed decisions.
 
 ---
 
-## 📊 Dashboard Preview
-
-> *(Add your dashboard screenshot below)*
+# 📊 Dashboard Preview
 
 ![Dashboard Preview](Dashboard_Screenshot.png)
 
 ---
 
-## ✨ Key Features
+# ✨ Features
 
-- Interactive Power BI dashboard
-- Sales performance analysis
-- Dynamic filters and slicers
-- City-wise sales visualization
-- Brand and mobile model analysis
-- Monthly sales trend analysis
-- Customer rating insights
-- Payment method distribution
-- KPI cards for quick business overview
+- 📈 Interactive Power BI Dashboard
+- 💰 Sales Performance Analysis
+- 📊 KPI Cards
+- 🏙️ City-wise Sales Analysis
+- 📱 Brand & Mobile Model Performance
+- 📅 Monthly Sales Trends
+- ⭐ Customer Rating Analysis
+- 💳 Payment Method Distribution
+- 🎛️ Dynamic Filters & Slicers
+- 📉 Business Insights through Data Visualization
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+# 📈 Key Performance Indicators (KPIs)
 
 - Total Sales
 - Total Quantity Sold
@@ -39,19 +34,19 @@ This dashboard helps analyze sales performance across different cities, brands, 
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
-- Microsoft Excel / CSV Dataset
+- Microsoft Excel
 - Data Visualization
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```
+```text
 Mobile-Sales-Analysis-Dashboard/
 │
 ├── Mobile_Sales_Dashboard.pbix
@@ -63,56 +58,56 @@ Mobile-Sales-Analysis-Dashboard/
 
 ---
 
-## 🎯 Business Insights
+# 🎯 Project Objectives
 
-This dashboard enables users to:
+This dashboard helps users to:
 
-- Monitor overall sales performance
-- Compare sales across different cities
-- Identify top-performing mobile brands
-- Analyze monthly sales trends
-- Understand customer preferences
-- Evaluate payment methods
-- Support business decision-making using interactive reports
-
----
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `Mobile_Sales_Dashboard.pbix` in Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the dashboard using the available filters and slicers.
+- Monitor overall sales performance.
+- Compare sales across different cities.
+- Analyze the performance of mobile brands and models.
+- Identify monthly sales trends.
+- Understand customer ratings and purchasing behavior.
+- Evaluate different payment methods.
+- Support business decision-making with interactive reports.
 
 ---
 
-## 📌 Dataset
+# 🚀 Getting Started
 
-The project uses a mobile sales dataset containing information such as:
+1. Clone this repository.
+2. Open **Mobile_Sales_Dashboard.pbix** using **Microsoft Power BI Desktop**.
+3. Load or refresh the dataset if required.
+4. Explore the dashboard using interactive filters and slicers.
+
+---
+
+# 📊 Dataset
+
+The dashboard is developed using a mobile sales dataset containing information such as:
 
 - Mobile Brand
 - Mobile Model
 - Sales Amount
-- Quantity
-- Customer Ratings
+- Quantity Sold
+- Customer Rating
 - Payment Method
 - City
 - Transaction Date
 
 ---
 
-## 👨‍💻 Author
+# 📬 Contact
 
 **Muhammad Atif Khan**
 
-📧 Email: *Add your email here*
+📧 Email: **atifkhanniazi181@gmail.com**
 
-🔗 LinkedIn: *Add your LinkedIn profile*
+💼 LinkedIn: **www.linkedin.com/in/muhammad-atif-khan-a566a2358**
 
-💻 GitHub: https://github.com/Muhammad-AtifKhan
+🐙 GitHub Repository: **https://github.com/Muhammad-AtifKhan/Mobile-Sales-Analysis-Dashboard**
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
